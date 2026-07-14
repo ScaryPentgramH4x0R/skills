@@ -1,0 +1,8 @@
+{
+  "name": "run-skill-generator",
+  "version": "1.0.0",
+  "description": "Queries the cyber-orchestrator-authority skill registry before executing pentest techniques, and scaffolds new skills for unregistered techniques",
+  "author": {
+    "name": "Cobloafs Contracting"
+  }
+}
