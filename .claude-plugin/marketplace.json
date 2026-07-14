@@ -383,6 +383,15 @@
       "source": "./plugins/skill-improver"
     },
     {
+      "name": "run-skill-generator",
+      "version": "1.0.0",
+      "description": "Queries the cyber-orchestrator-authority skill registry before executing pentest techniques, and scaffolds new skills for unregistered techniques",
+      "author": {
+        "name": "Cobloafs Contracting"
+      },
+      "source": "./plugins/run-skill-generator"
+    },
+    {
       "name": "fp-check",
       "version": "1.0.3",
       "description": "Systematic false positive verification for security bug analysis with mandatory gate reviews",
