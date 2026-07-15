@@ -1,0 +1,10 @@
+{
+  "name": "orchestrator",
+  "version": "1.0.0",
+  "description": "Session-wide orchestrator that discovers all loaded skills, plugins, agents, and MCP tools, then routes tasks to the best-matching capability with configurable token budget options",
+  "author": {
+    "name": "Trail of Bits",
+    "email": "opensource@trailofbits.com",
+    "url": "https://github.com/trailofbits"
+  }
+}

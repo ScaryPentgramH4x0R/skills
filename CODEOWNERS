@@ -42,3 +42,4 @@
 /plugins/workflow-skill-design/ @bsamuels453 @dguido
 /plugins/yara-authoring/ @dguido
 /plugins/zeroize-audit/ @kumarak @dguido
+/plugins/orchestrator/ @dguido
