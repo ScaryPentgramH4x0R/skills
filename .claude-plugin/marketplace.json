@@ -401,6 +401,16 @@
         "url": "https://github.com/trailofbits"
       },
       "source": "./plugins/dimensional-analysis"
+    },
+    {
+      "name": "pentest-commands",
+      "version": "1.0.0",
+      "description": "Categorized slash commands for penetration testing — /scan, /recon, /web, /enum, /exploit, /fuzz, /cloud, /creds, /osint, /report each route to the best tool stack for that phase.",
+      "author": {
+        "name": "scarypentgramh4x0r",
+        "email": "a3lias14@gmail.com"
+      },
+      "source": "./plugins/pentest-commands"
     }
   ]
 }
